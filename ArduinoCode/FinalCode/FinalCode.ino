@@ -6,11 +6,11 @@
 
 dht DHT;
 
-#define FIREBASE_AUTH "Cuz3c10AB6PICdhMHgFdWmZUNQSx5VrehWJBB85g"
-#define FIREBASE_HOST "arduino-projects-74ff9.firebaseio.com"
+#define FIREBASE_AUTH "OMITTED_FOR_SECURITY_REASONS"
+#define FIREBASE_HOST "OMITTED_FOR_SECURITY_REASONS"
 
-#define WIFI_SSID "ydev"
-#define WIFI_PASS "yash1234"
+#define WIFI_SSID "OMITTED_FOR_SECURITY_REASONS"
+#define WIFI_PASS "OMITTED_FOR_SECURITY_REASONS"
 #define thPin D2
 #define mPin A0
 #define irriPin D7

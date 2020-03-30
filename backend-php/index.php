@@ -1,6 +1,9 @@
 <?php
 
- $link = mysqli_connect("shareddb-h.hosting.stackcp.net", "techargro-arduino-3333823c", "c6774663dd", "techargro-arduino-3333823c");
+ $link = mysqli_connect("OMITTED_FOR_SECURITY_REASONS", 
+			"OMITTED_FOR_SECURITY_REASONS", 
+			"OMITTED_FOR_SECURITY_REASONS", 
+			"OMITTED_FOR_SECURITY_REASONS");
 
     if(mysqli_connect_error()){
         die("Connection was not Succesful.");
