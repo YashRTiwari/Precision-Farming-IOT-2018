@@ -6,7 +6,10 @@ $moisture = array();
 $temp = array();
 $idLast = 0;
 
-$link = mysqli_connect("shareddb-h.hosting.stackcp.net", "techargro-arduino-3333823c", "c6774663dd", "techargro-arduino-3333823c");
+$link = mysqli_connect("OMITTED_FOR_SECURITY_REASONS", 
+		       "OMITTED_FOR_SECURITY_REASONS", 
+		       "OMITTED_FOR_SECURITY_REASONS", 
+		       "OMITTED_FOR_SECURITY_REASONS");
 
     if(mysqli_connect_error()){
         die("Connection was not Succesful.");
@@ -187,12 +190,12 @@ moiC.render();
     var liveH = 20;
    // Initialize Firebase
           var config = {
-            apiKey: "AIzaSyDbUFq0FTmYzrjwmuyTQwcyzZJPhNPwBB8",
-            authDomain: "arduino-projects-74ff9.firebaseapp.com",
-            databaseURL: "https://arduino-projects-74ff9.firebaseio.com",
-            projectId: "arduino-projects-74ff9",
-            storageBucket: "arduino-projects-74ff9.appspot.com",
-            messagingSenderId: "1062833185725"
+            apiKey: "OMITTED_FOR_SECURITY_REASONS",
+            authDomain: "OMITTED_FOR_SECURITY_REASONS",
+            databaseURL: "OMITTED_FOR_SECURITY_REASONS",
+            projectId: "OMITTED_FOR_SECURITY_REASONS",
+            storageBucket: "OMITTED_FOR_SECURITY_REASONS",
+            messagingSenderId: "OMITTED_FOR_SECURITY_REASONS"
           };
           firebase.initializeApp(config);
            
