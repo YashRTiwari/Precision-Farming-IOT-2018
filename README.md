@@ -1,5 +1,7 @@
 # Precision-Farming-IOT-2018
 
+<a href="http://yashtiwari.tech/legacy/project_asset/precision_farming.pdf">View Our Presentation</a>
+
 ## Introduction:
 Precision farming is defined as the site-specific management of farmland that utilizes the use of modern technologies 
 to augment crop yields. With the aid of sensors and satellite imageries, farmers can judiciously use their resources. 
