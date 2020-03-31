@@ -30,3 +30,10 @@ Our purpose is to study various conditions of plants soiland to learn deeper und
   <img src="s2.png" width="20%"/>
 </div>
 
+## Team
+
+<ul>
+  <li>Shivam Purohit - Sales Lead</li>
+  <li>Ashesh Pathak - Marketting Lead</li>
+  <li>Yash Rajendra Tiwari - Tech Lead</li>
+</ul>
