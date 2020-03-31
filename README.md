@@ -21,8 +21,6 @@ Agriculture provides engagement to more than 50% population in India but still a
 2. Moisture Content
 3. Temperature
 
-We used an interface to plot the values of the data procured, the link is here: http://yrtwebhosting-com.stackstaging.com/arduino/analysis.php . 
-
 Our purpose is to study various conditions of plants soiland to learn deeper understanding of  Agro Tech, Sustainable food production, Various Measures of Precision Farming, Developing Algorithms for automation in AgroTech etc.
 
 
